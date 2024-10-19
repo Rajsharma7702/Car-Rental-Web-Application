@@ -4,6 +4,7 @@ A responsive car rental website built using HTML, CSS, and JavaScript. The appli
 
 Features:
 Browse car listings with images and descriptions.
+
 Search and filter cars by type, price, and availability.
 Real-time price calculation and booking form.
 Responsive design for both desktop and mobile devices.
